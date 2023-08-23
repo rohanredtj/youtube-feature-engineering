@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rohancode/youtube-feature-engineering/blob/main/YouTube_Insights.ipynb)
 
-Welcome to the YouTube Feature Engineeging project! This repository contains a comprehensive dataset and analysis focused on the world of YouTube channels and their performance. It aims insights into the success factors of top YouTube channels, explore content strategies, identify regional influencers, analyze earnings, and visualize geospatial trends.
+This repository contains a comprehensive dataset of Global YouTube Statistics 2023 from Kaggle and an analysis focused on the YouTube channels and their performance. It aims insights into the success factors of top YouTube channels, explore content strategies, identify regional influencers, analyze earnings, and visualize geospatial trends.
 
 ## Questions Explored from the Dataset
 
