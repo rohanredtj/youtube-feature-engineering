@@ -60,7 +60,3 @@ To explore the dataset and conduct your own analysis, follow these steps:
 ## Insights
 
 ![Visualization of Insights](https://github.com/rohancode/youtube-feature-engineering/blob/main/YouTube_Insights.gif)
-
-## Contact
-
-If you have any questions or suggestions, please feel free to open an issue or contact me at rohan.rathore93@gmail.com.
